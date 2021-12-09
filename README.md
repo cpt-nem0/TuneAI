@@ -18,3 +18,6 @@ the project will be deployed locally through streamlit.
 ### Note: 
 This is a demo project you can produce your own music with predict.py, <br>
 or you can train your own model with lstm.py.
+
+
+- created on top of [classic piano composer](https://github.com/cpt-nem0/Classical-Piano-Composer)
